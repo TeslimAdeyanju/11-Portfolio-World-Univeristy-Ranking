@@ -1,35 +1,38 @@
-# University Rankings Analysis & Visualization with Power BI
+# 📊 QS World University Rankings 2025 – Power BI Dashboard
 
-This project analyzes global university ranking data for 1,500+ institutions, showcasing trends and key factors that influence rankings. Using Power BI, I created interactive dashboards to explore academic reputation, employer reputation, research impact, internationalization, sustainability, and overall performance across regions and years.
+![QS World University Rankings 2025](https://www.topuniversities.com/sites/default/files/styles/hero_image/public/2025-06/qs-world-university-rankings-2025-hero.jpg?itok=J7q1Vj8L)
 
-## Key Features
-- Interactive global map showing university distribution and scores by region
-- Year-over-year ranking changes with trend analysis
-- Detailed breakdown of ranking metrics including faculty quality, citations, and sustainability
-- Filters for region, institution size, focus, and status for customized insights
-- Comparative scatter plots to reveal relationships between key ranking factors
-- Highlight of top-performing institutions and those with significant rank shifts
+This project presents an interactive Power BI dashboard analyzing the QS World University Rankings 2025, featuring over 1,500 universities across 105 higher education systems. The dashboard provides insights into academic reputation, employer recognition, research impact, internationalization, sustainability, and overall performance.
 
-## Data Source
-The dataset includes rankings for 2024 and 2025, with scores and ranks on multiple criteria for each university.
+## 🔗 Dataset
 
-## Tools & Techniques
-- Power BI Desktop for data modeling and visualization
-- Data cleaning and transformation to handle missing values and data types
-- DAX for calculated metrics such as rank change and score aggregations
-- Interactive slicers and drill-through pages for in-depth exploration
+The dataset used in this project is sourced from the official QS World University Rankings 2025. You can access the data here:
 
-## Insights
-- Identification of regional strengths and areas for improvement
-- Impact of sustainability and internationalization on overall rankings
-- Institutions with notable rank improvements or declines between years
+👉 [QS World University Rankings 2025 Dataset](https://www.topuniversities.com/world-university-rankings?sort_by=rank&order_by=asc)
 
-## How to Use
-Explore the published Power BI report [insert link here] to interact with the data and uncover insights about global higher education institutions.
+For offline analysis, you can download the Excel version of the dataset:
 
----
+👉 [Download Excel Version](https://www.qs.com/reports-whitepapers/qs-world-university-rankings-2025-results-table-excel/)
 
-Feel free to customize this README with your own style and any screenshots or links to your deployed report!
+## 🛠️ Tools & Technologies
 
-Would you like me to draft a version with more technical detail or add a sample screenshot section?
+- **Power BI Desktop** – for data modeling and visualization  
+- **DAX** – for calculated metrics and measures  
+- **Power Query** – for data transformation and cleaning  
+- **Icons and Custom Visuals** – for visual enhancements  
+
+## 📈 Key Features
+
+- 🌍 **Global Map**: Visualize university distribution and scores by region  
+- 📉 **Year-over-Year Analysis**: Compare rankings and scores between 2024 and 2025  
+- 🔍 **Detailed Metrics**: Explore factors like academic reputation, employer recognition, and sustainability  
+- 🎯 **Top Performers**: Highlight institutions with the highest scores in various categories  
+- 📊 **Interactive Filters**: Drill down by region, size, focus, and status  
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](https://example.com/dashboard-screenshot.png)  
+*Note: Replace with an actual screenshot of your dashboard.*
+
+## 📄 Project Structure
 
